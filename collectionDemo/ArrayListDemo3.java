@@ -62,8 +62,9 @@ public class ArrayListDemo3 {
 		
 		System.out.println(empdata);
 		
-		
-		
+		System.out.println("******************************");
+
+		System.out.println("ArrayList is completed!");
 		
 		
 		
